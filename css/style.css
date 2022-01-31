@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+.fix-size {
+    margin: 0 auto;
+    width: 1110px;
+}
+
+body {
+    max-width: 1920px;
+}

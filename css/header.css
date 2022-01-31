@@ -1,0 +1,102 @@
+.header_nav {
+    background: #E5E5E5;
+}
+
+.header_nav ul {
+    margin: 0 auto;
+    width: 540px;
+}
+
+.header_nav a {
+    color: #333333;
+    padding: 20px 15px;
+    display: block;
+}
+
+.header_nav li {
+    display: inline-block;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.beauty_logo {
+    margin: 20px 20px 20px 0;
+}
+
+.beauty{
+    display: inline-block;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    margin: 40px 0;
+    line-height: 42px;
+    letter-spacing: 0.1em;
+    color: #F13C6E;
+}
+
+.beauty_right {
+    display: block;
+    float: right;
+    padding: 39px 0;
+}
+
+.beauty_number {
+    font-family: "Roboto";
+    margin-right: 40px;
+    display: inline-block;
+    font-weight: normal;
+    vertical-align: middle;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.beauty_button {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 14px;
+    padding: 12px 27px;
+    margin-right: 0;
+    line-height: 16px;
+    background: #FFFFFF;
+    text-align: center;
+    border: 2px solid #F13C6E;
+    box-sizing: border-box;
+    border-radius: 40px;
+    color: #000000;
+}
+
+.hr_line {
+    border: 1px solid #EFEFEF;
+}
+
+.down ul {
+    margin: 0 auto;
+    width: 732px;
+}
+
+.header_list {
+    font-family: "Roboto";
+    display: inline-block;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.header_first {
+    padding-left: 0;
+}
+
+.header_last {
+    padding-right: 0;
+}
+
+
+.down a{
+    color: #000000;
+    padding: 30px 20px;
+    display: block;
+}
